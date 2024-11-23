@@ -61,3 +61,6 @@ The available configurations are:
 * /etc/hadoop/mapred-site.xml  MAPRED_CONF
 
 If you need to extend some other configuration file, refer to base/entrypoint.sh bash script.
+
+# Vídeo fonte da indicação do repositório:
+https://www.youtube.com/watch?v=BzngYELnp1o
